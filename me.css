@@ -1,0 +1,31 @@
+body{
+    background-color: ghostwhite;
+
+}
+
+#cima{
+
+    background-color: blueviolet;
+    vertical-align:	center;
+    padding:5px 0;
+
+}
+#cimai{
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav ul{
+    display: inline;
+    padding-left: 80%;
+    right:0;
+}
+nav ul li{
+    position: absolute ;
+    right:0;
+    
+}
+#baixo{
+    background-color: rgb(128, 128, 128);
+}
